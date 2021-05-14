@@ -1,8 +1,8 @@
-## Glossary 
+# Glossary 
 
-### Apprenticeship Concepts & Terminology
+## Apprenticeship Concepts & Terminology
 
-#### Apprenticeship Program Types
+### Apprenticeship Program Types
 There are two types of apprenticeship programs available. Each program enhances your apprenticeship with high-quality standards, rigor, and additional benefits. 
 
 Registered Apprenticeship Programs
@@ -11,7 +11,7 @@ Registered Apprenticeship Programs
 Industry-Recognized Apprenticeship Programs
 : [Industry-Recognized Apprenticeship Programs (IRAP)](https://www.apprenticeship.gov/employers/industry-recognized-apprenticeship-program) are high-quality apprenticeship programs recognized as such by Standards Recognition Entity (SRE) pursuant to the DOL's standards.
 
-#### Apprenticeship Approach Types
+### Apprenticeship Approach Types
 Competency-Based Approach
 : Measures skill acquisition through the individual apprentice’s successful demonstration of acquired skills and knowledge, as verified by the program sponsor. Programs utilizing this approach must still require apprentices to complete an on-the-job learning component of Registered Apprenticeship. The program standards must address how on-the-job learning will be integrated into the program, describe competencies, and identify an appropriate means of testing and evaluation for such competencies.
 
@@ -21,7 +21,7 @@ Hybrid Approach
 Time-Based Approach
 : Measures skill acquisition through the individual apprentice’s completion of at least 2,000 hours of on-the-job learning as described in a work process schedule.
 
-#### Apprenticeship Partner Types
+### Apprenticeship Partner Types
 American Job Centers
 : American Job Centers are resource centers where job seekers can get employment information, find out about career development training opportunities, and connect to various employment opportunities in their area.
 
@@ -43,7 +43,7 @@ Standards Recognition Entity
 Workforce Development Boards
 : Workforce Development Boards direct federal, state, and local funding to workforce development programs. They help employers meet their needs for skilled workers and help career seekers find career and economic advancement.
 
-#### Apprenticeship Program Components
+### Apprenticeship Program Components
 All registered apprenticeship programs consist of five core components:
 
 Direct Business Involvement
