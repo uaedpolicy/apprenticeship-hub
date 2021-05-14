@@ -5,7 +5,7 @@
 ### Available Occupations (USDOL)
 
 Field Name | Description
------|----------
+-------|--------
  ONET Code | The onet code is an assigned set of numbers from the Occupational Information Network's (O*NET) online database. 
  ONET Title | The name of the occupation associated with the O*NET Code.  
  RAPIDS Code | The rapids code is an assigned set of numbers/letters code from the Registered Apprenticeship Partners Information Data System (RAPIDS).
