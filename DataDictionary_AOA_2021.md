@@ -1,7 +1,7 @@
 # Data Dictionary
+Data for the Alabama Apprenticeship Database is collected from a variety of sources. Each source and corresponding elements are described below.
 
 ## Data Tables
-
 ### Available Occupations (USDOL)
 
 Field Name | Description
