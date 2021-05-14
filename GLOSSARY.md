@@ -3,7 +3,7 @@
 ## Apprenticeship Concepts & Terminology
 
 ### Apprenticeship Program Types
-There are two types of apprenticeship programs available. Each program enhances your apprenticeship with high-quality standards, rigor, and additional benefits. 
+*There are two types of apprenticeship programs available. Each program enhances your apprenticeship with high-quality standards, rigor, and additional benefits.* 
 ##### Registered Apprenticeship Programs
 A [Registered Apprenticeship Program (RAP)](https://www.apprenticeship.gov/employers/registered-apprenticeship-program) is a proven model of apprenticeship that has been validated by the Department of Labor or State Apprenticeship Agency.
 ##### Industry-Recognized Apprenticeship Programs
@@ -34,7 +34,7 @@ A Standards Recognition Entity (SRE) is a third-party entity, recognized by the 
 Workforce Development Boards direct federal, state, and local funding to workforce development programs. They help employers meet their needs for skilled workers and help career seekers find career and economic advancement.
 
 ### Apprenticeship Program Components
-All registered apprenticeship programs consist of five core components:
+*All registered apprenticeship programs consist of five core components:*
 ##### Direct Business Involvement
 Employers are the foundation of every apprenticeship program and the skills needed by their workforce are at the core. You will play an active role in building the program and be involved in every step of designing and implementing the apprenticeship program.
 ##### Related Instruction
