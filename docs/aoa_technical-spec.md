@@ -14,3 +14,9 @@ Based on the Standard Occupational Classification external site, the ONET-SOC ta
 ### Training Program Classifications
 #### Classification of Instructional Programs (CIP)
 The [Classification of Instructional Programs (CIP)](https://nces.ed.gov/ipeds/cipcode/resources.aspx?y=56) is the National Center for Education Statistics’ (NCES) primary classification for instructional programs. It provides a taxonomic scheme that supports the accurate tracking and reporting of fields of study and program completions activity. CIP was originally developed by the U.S. Department of Education's National Center for Education Statistics (NCES) in 1980, with revisions occurring in 1985, 1990, 2000, 2010 and 2020.
+
+## Additional Data Notes 
+### Lower Living Standard Income Level Guidelines
+The Lower Living Standard Income Level (LLSIL) reflects cost of living increases for the Regions and major metro areas by calculating the percentage change in the most recent Consumer Price Index for All Urban Consumers (CPI-U) for an area then applying this calculation to each of the previous year's LLSIL figures.
+
+The USDOL/ETA’s [LLSIL Guidelines](https://www.dol.gov/agencies/eta/llsil) include income charts that are used by state and local workforce investment areas to determine income eligibility for the Workforce Innovation and Opportunity Act (WIOA) programs for youth and certain adult services, in addition to the Work Opportunity Tax Credit. 
