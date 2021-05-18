@@ -1,5 +1,9 @@
+# Master Outline
 
-## Apprenticeship Basics
+### Apprenticeship Program Types
+There are two types of apprenticeship programs available. Each program enhances your apprenticeship with high-quality standards, rigor, and additional benefits. 
+### Apprenticeship Approach Types
+### Apprenticeship Partner Types
 ### Apprenticeship Roles 
 * Registration Agency
 * Apprenticeship Sponsor
@@ -7,14 +11,18 @@
 * Related Technical Instruction (RTI) Provider
 * Apprentice 
 
-### Apprenticeship Components
+### Apprenticeship Program Components
+All registered apprenticeship programs consist of five core components
 * Employer Involvement
 * On-the-Job Training (OJT)
 * Related Technical Instruction (RTI)
 * Paid Work Experience
 * Attainment of One or More Portable, Nationally Recognized Industry Credentials 
 
-### Program Registration Data
+### Apprenticeship Program Documentation
+The components of the Registered Apprenticeship Program are documented within six core documents.
+
+### Apprenticeship Program Registration Data
 * Sponsor Information
 * Parent Organization / National Affiliation
 * Contact Information
